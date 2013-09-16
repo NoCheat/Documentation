@@ -1,0 +1,5 @@
+=Framework=
+
+==Register/Unregister checks==
+
+It should support easy register and unregister checks without needing to change the entire source code of NoCheat 4.
